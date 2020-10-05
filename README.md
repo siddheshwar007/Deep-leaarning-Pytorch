@@ -1,1 +1,1 @@
-# Deep-leaarning-Pytorch
+# Deep-learning-Pytorch
